@@ -43,6 +43,7 @@ Like the DJH, the *Collaborative Journalism Handbook* will be open-source and pu
 ## Random examples
 
 - ["Competition Be Damned"](https://source.opennews.org/articles/news-nerds-against-pdfs/) How reporters at the Washington Post, New York Times, ProPublica, and more self-organized to free trapped FEC data)
+- [Using social media to spark enthusiasm among fans and crowdsource participants](https://twitter.com/ProPublica/status/859156075156836352)
 - [Introducing Tabula](https://source.opennews.org/articles/introducing-tabula/)
 - [ProPublica, The New York Times and the AP Are Up Late Sorting Through Trump Admin Financial Disclosures](http://www.adweek.com/digital/propublica-the-new-york-times-and-the-ap-are-up-late-sorting-through-trump-admin-financial-disclosures/)
 - [ProPublica Crowdsourcing Campaign Spending: What We Learned From Free the Files](https://www.propublica.org/article/crowdsourcing-campaign-spending-what-we-learned-from-free-the-files)
