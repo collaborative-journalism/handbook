@@ -16,8 +16,8 @@ Like the DJH, the *Collaborative Journalism Handbook* will be open-source and pu
 - Hello spreadsheets
 - Using spreadsheets as a collaborative interface for organizing the data and reporting
 - Data entry: everyone's doin it!
-- The joy of plaintext
-- Data without structure is just noise
+- The joy of plaintext and structured text
+- Divide and conquer
 - Best practices for team collaboration
 - Best practices for inter-organization collaboration
 - Security practices
@@ -63,6 +63,7 @@ Like the DJH, the *Collaborative Journalism Handbook* will be open-source and pu
 - [Turning The Camera Around: Health Care Stakeholders](http://www.npr.org/news/specials/2009/hearing-pano/)
 - [David Fahrenthold goes from tweeting pictures of his notepad to winning a Pulitzer Prize](http://www.niemanlab.org/2017/04/david-fahrenthold-goes-from-tweeting-pictures-of-his-notepad-to-winning-a-pulitzer-prize/)
 - [OpenElections: Certified election results. For Everyone](http://www.openelections.net/)
+- [Panama Papers show the value of newsroom collaboration](https://www.cjr.org/hit_or_miss/panama_papers_show_the_value_of_newsroom_collaborations.php)
 - [We broke the Panama Papers story. Here's how to investigate Donald Trump](https://www.theguardian.com/commentisfree/2017/jan/24/panama-papers-media-investigation-next-donald-trump-hold-accountable)
 - [BuzzFeedNews zika-data guide](https://github.com/BuzzFeedNews/zika-data)
 - [A fundamental way newspaper sites need to change](http://www.holovaty.com/writing/fundamental-change/)
@@ -79,6 +80,16 @@ Like the DJH, the *Collaborative Journalism Handbook* will be open-source and pu
 - [We need collaboration in journalism now more than ever](https://www.poynter.org/2016/we-need-collaboration-in-journalism-now-more-than-ever/441391/)
 - [Doubling Up Prisoners In 'Solitary' Creates Deadly Consequences](http://www.npr.org/2016/03/24/470824303/doubling-up-prisoners-in-solitary-creates-deadly-consequences)
 - [Journalists around the world are working together more than ever. Here are 56 examples.](http://www.poynter.org/2017/journalists-around-the-world-are-working-together-more-than-ever-here-are-56-examples/455494/)
+- [For Local NBC Stations, Collaborative Journalism](http://www.nytimes.com/2011/12/06/business/media/for-local-nbc-stations-collaborative-journalism.html)
+- [NPR stations are collaborating more, and that’s a good thing](https://www.cjr.org/analysis/npr_collaboration.php)
+- [The New Investigators](http://archives.cjr.org/feature/the_new_investigators.php)
+- [A stunning scoop landed in my lap. Here’s why we looped in dozens of other newsrooms.](https://www.cjr.org/the_feature/panama-papers-partnership.php)
+- [Joining Forces in the Name of Watchdog Journalism](http://niemanreports.org/articles/joining-forces/)
+- [Spurring cross-border collaboration on journalism investigations in Latin America](http://ijnet.org/en/blog/spurring-cross-border-collaboration-journalism-investigations-latin-america)
+- [Crowdsourcing can lead newspapers through buyout blues](http://bydanielvictor.com/2008/12/01/crowdsourcing-can-lead-newspapers-through-buyout-blues/)
+- [Belingcat](https://www.bellingcat.com/)
+- [A perpetual motion machine for investigative reporting: CPI and PRI partner on state corruption project](http://www.niemanlab.org/2011/03/a-perpetual-motion-machine-for-investigative-reporting-cpi-and-pri-partner-on-state-corruption-project/)
+- [Journalism collaboration: How to work well with partners](http://www.newslab.org/2014/05/22/journalism-collaboration-how-to-work-well-with-partners/)
 
 # Resources 
 
