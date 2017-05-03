@@ -22,6 +22,8 @@ Like the DJH, the *Collaborative Journalism Handbook* will be open-source and pu
 - Crowdsourcing and MEchanical Turk
 - Software tools and services overview
 - Newsrooms and open-source development
+- The fear of losing the scoop
+- How to encourage and learn from citizen journalism
 - Case studies
 
 ## Random examples
