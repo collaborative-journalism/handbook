@@ -7,14 +7,24 @@ The impetus for writing the *Collaborative Journalism Handbook* comes from the n
 Like the DJH, the *Collaborative Journalism Handbook* will be open-source and published online. Are you a collaborating journalist? Then fork this repo and add all the interesting content that's in my head.
 
 
+## Proposed chapters tentatively
+
+- Introduction: history of news org competition
+- Chapter 0: Trust, and financial factors etc. etc.
+- Chapter 1: Hello spreadsheets
+- Chapter 2: Data withotu structure is just noise
+- Chapter 3: The joy of plaintext
+- Chapter : Access-control and sharing of documents between teams and organizations
+- Chapter : Best security practices
+- Chapter: Open source practices and trends in newsrooms
+- Case studies
+
 ## Random examples
 
 - ["Competition Be Damned"](https://source.opennews.org/articles/news-nerds-against-pdfs/) How reporters at the Washington Post, New York Times, ProPublica, and more self-organized to free trapped FEC data
 - [Introducing Tabula](https://source.opennews.org/articles/introducing-tabula/)
-- [ProPublica, The New York Times and the AP Are Up Late Sorting Through Trump Admin Financial Disclosures
-](http://www.adweek.com/digital/propublica-the-new-york-times-and-the-ap-are-up-late-sorting-through-trump-admin-financial-disclosures/)
-- [ProPublica Crowdsourcing Campaign Spending: What We Learned From Free the Files
-](https://www.propublica.org/article/crowdsourcing-campaign-spending-what-we-learned-from-free-the-files)
+- [ProPublica, The New York Times and the AP Are Up Late Sorting Through Trump Admin Financial Disclosures](http://www.adweek.com/digital/propublica-the-new-york-times-and-the-ap-are-up-late-sorting-through-trump-admin-financial-disclosures/)
+- [ProPublica Crowdsourcing Campaign Spending: What We Learned From Free the Files](https://www.propublica.org/article/crowdsourcing-campaign-spending-what-we-learned-from-free-the-files)
 - [ProPublica and The New York Times hire ‘the best damn writer in Texas’](https://www.poynter.org/2017/propublica-and-the-new-york-times-hire-the-best-damn-writer-in-texas/452119/)
 - [How three news outlets collaborated on the NSA files](https://www.journalism.co.uk/news/how-nytimes-guardian-and-propublica-collaborated-on-the-nsa-files/s2/a554585/)
 - [Inside the Washington Post’s police shootings database: An oral history](https://medium.com/thewashingtonpost/inside-the-washington-post-s-police-shootings-database-an-oral-history-413121889529)
