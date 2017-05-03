@@ -9,10 +9,12 @@ Like the DJH, the *Collaborative Journalism Handbook* will be open-source and pu
 
 ## Proposed topics tentatively
 
-- Introduction: history of news org competition
-- Trust, financial, cultural factors etc.
+- Introduction: history of news org competition and collaboration
+- Trust, financial, cultural, and other institutional factors etc.
+- The costs and downsides of collaboration
+- How to initiate a collaboration or crowdsourced campaign.
 - Hello spreadsheets
-- How to take notes with a spreadsheet
+- Using spreadsheets as a collaborative interface for organizing the data and reporting
 - Data entry: everyone's doin it!
 - The joy of plaintext
 - Data without structure is just noise
@@ -20,12 +22,24 @@ Like the DJH, the *Collaborative Journalism Handbook* will be open-source and pu
 - Best practices for inter-organization collaboration
 - Security practices
 - Crowdsourcing and MEchanical Turk
-- Software tools and services overview
 - Newsrooms and open-source development
 - The fear of losing the scoop
 - How to encourage and learn from citizen journalism
 - Case studies
-
+  - Election Land
+  - Trump White House Records
+  - Dollars for Docs
+  - Fatal Encounters / Fatal Force
+  - Homicide Watch
+  - Panama Papers
+  - [Luxombourg Leaks](https://www.icij.org/project/luxembourg-leaks)
+  
+- Software tools and services overview
+  - Google Drive
+  - Dropbox
+  - Dropbox Paper/Etherpad
+  - Slack
+  - Github  
 ## Random examples
 
 - ["Competition Be Damned"](https://source.opennews.org/articles/news-nerds-against-pdfs/) How reporters at the Washington Post, New York Times, ProPublica, and more self-organized to free trapped FEC data)
@@ -40,6 +54,7 @@ Like the DJH, the *Collaborative Journalism Handbook* will be open-source and pu
 - [Electionland: Monitoring access to the vote in real time](https://projects.propublica.org/electionland/)
 - [Electionland is a New Standard For Journalism Education](https://medium.com/@simongalp/electionland-is-a-new-standard-for-journalism-education-425dd190706e)
 - [The Google News Lab in 2016 and Where We're Headed](https://medium.com/google-news-lab/the-google-news-lab-in-2016-and-where-were-headed-17b16a8ee63d)
+- [How We Made Losing Ground](https://source.opennews.org/articles/how-we-made-losing-ground/)
 - [Introducing the ProPublica Reporting Network](https://www.propublica.org/article/introducing-the-propublica-reporting-network-520)
 - [Doing distributed journalism with Amanda Michel and the ProPublica Reporting Network](https://maimonidesladder.com/2009/07/10/doing-distributed-journalism-with-amanda-michel-and-the-propublica-reporting-network/)
 - [Crowdsourcing the Price of Water](http://datajournalismhandbook.org/1.0/en/case_studies_17.html)
@@ -48,12 +63,13 @@ Like the DJH, the *Collaborative Journalism Handbook* will be open-source and pu
 - [Turning The Camera Around: Health Care Stakeholders](http://www.npr.org/news/specials/2009/hearing-pano/)
 - [David Fahrenthold goes from tweeting pictures of his notepad to winning a Pulitzer Prize](http://www.niemanlab.org/2017/04/david-fahrenthold-goes-from-tweeting-pictures-of-his-notepad-to-winning-a-pulitzer-prize/)
 - [OpenElections: Certified election results. For Everyone](http://www.openelections.net/)
+- [We broke the Panama Papers story. Here's how to investigate Donald Trump](https://www.theguardian.com/commentisfree/2017/jan/24/panama-papers-media-investigation-next-donald-trump-hold-accountable)
 - [BuzzFeedNews zika-data guide](https://github.com/BuzzFeedNews/zika-data)
 - [A fundamental way newspaper sites need to change](http://www.holovaty.com/writing/fundamental-change/)
 - [Subverting the Story Model](https://source.opennews.org/articles/subverting-story-model/)
 - [Source Guides to Working Together](https://source.opennews.org/guides/source-guide-working-together/)
 - [Tow Center Guide to Crowdsourcing](https://www.cjr.org/tow_center_reports/guide_to_crowdsourcing.php)
-
+- [The Backstory of How the Pulitzer-Winning "Unbelievable Story of Rape" Came to Be](http://www.westword.com/news/the-backstory-of-how-the-pulitzer-winning-unbelievable-story-of-rape-came-to-be-8134322)
 - [Podcast: Open Source at Facebook with James Pearce](https://changelog.com/podcast/211)
 - [Documenting Hate](https://projects.propublica.org/graphics/hatecrimes)
 - [Cicada Tracker](https://project.wnyc.org/cicadas/)
@@ -61,6 +77,8 @@ Like the DJH, the *Collaborative Journalism Handbook* will be open-source and pu
 - [Crowdsourcing a Public Records Audit](http://www.playgroundsforeveryone.com/)
 - [7 lessons from BuzzFeed’s ‘FOIA-friendly newsroom’](https://www.poynter.org/2016/7-lessons-from-buzzfeeds-foia-friendly-newsroom/416733/)
 - [We need collaboration in journalism now more than ever](https://www.poynter.org/2016/we-need-collaboration-in-journalism-now-more-than-ever/441391/)
+- [Doubling Up Prisoners In 'Solitary' Creates Deadly Consequences](http://www.npr.org/2016/03/24/470824303/doubling-up-prisoners-in-solitary-creates-deadly-consequences)
+- [Journalists around the world are working together more than ever. Here are 56 examples.](http://www.poynter.org/2017/journalists-around-the-world-are-working-together-more-than-ever-here-are-56-examples/455494/)
 
 # Resources 
 
