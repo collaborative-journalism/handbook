@@ -40,8 +40,11 @@ Like the DJH, the *Collaborative Journalism Handbook* will be open-source and pu
   - Dropbox Paper/Etherpad
   - Slack
   - Github  
+  
 ## Random examples
 
+
+- [How We’re Learning To Do Journalism Differently in the Age of Trump](https://www.propublica.org/article/how-were-learning-to-do-journalism-differently-in-the-age-of-trump)
 - ["Competition Be Damned"](https://source.opennews.org/articles/news-nerds-against-pdfs/) How reporters at the Washington Post, New York Times, ProPublica, and more self-organized to free trapped FEC data)
 - [Using social media to spark enthusiasm among fans and crowdsource participants](https://twitter.com/ProPublica/status/859156075156836352)
 - [Introducing Tabula](https://source.opennews.org/articles/introducing-tabula/)
