@@ -93,6 +93,12 @@ Like the DJH, the *Collaborative Journalism Handbook* will be open-source and pu
 - [Why We’re Giving Away Our Reporting Recipe](https://www.propublica.org/article/why-were-giving-away-our-reporting-recipe-304)
 - [A perpetual motion machine for investigative reporting: CPI and PRI partner on state corruption project](http://www.niemanlab.org/2011/03/a-perpetual-motion-machine-for-investigative-reporting-cpi-and-pri-partner-on-state-corruption-project/)
 - [Journalism collaboration: How to work well with partners](http://www.newslab.org/2014/05/22/journalism-collaboration-how-to-work-well-with-partners/)
+- [How to use Google Docs to Help Power Your Reporting](https://www.propublica.org/getinvolved/item/how-to-use-google-docs-to-help-power-your-reporting)
+
+# Examples
+
+- thereported.ca https://docs.google.com/spreadsheets/d/1r-e6lWoVLSagRk7zfp_TNkgVrhRTtVe2QoYUwOrAeKI/edit#gid=1667426450
+
 
 # Resources 
 
