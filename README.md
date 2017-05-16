@@ -105,6 +105,7 @@ Like the DJH, the *Collaborative Journalism Handbook* will be open-source and pu
 - thereported.ca https://docs.google.com/spreadsheets/d/1r-e6lWoVLSagRk7zfp_TNkgVrhRTtVe2QoYUwOrAeKI/edit#gid=1667426450
 - The death of a prosecutor, 40,000 audio hearings, 2 years and a team. http://blogs.lanacion.com.ar/projects/data/the-death-of-a-prosecutor-40000-audio-hearings-2-years-and-a-team/
 - The Body Camera Database https://github.com/bodycams/bodycams.github.io/blob/master/README.md
+- WaPo's Harwell and Fahrenthold asking for tips on Mar-A-Lago events to track: https://twitter.com/drewharwell/status/862406287711141888
 
 # Resources 
 
