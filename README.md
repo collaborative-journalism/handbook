@@ -1,3 +1,5 @@
+*(at some point I'll separate this document into a proper spreadsheet, rather than just a bunch of lists of links)*
+
 # The Collaborative Journalism Handbook
 
 A guide of best practices and case studies for modern collaborative and crowdsourced journalism.
@@ -101,7 +103,8 @@ Like the DJH, the *Collaborative Journalism Handbook* will be open-source and pu
 # Examples
 
 - thereported.ca https://docs.google.com/spreadsheets/d/1r-e6lWoVLSagRk7zfp_TNkgVrhRTtVe2QoYUwOrAeKI/edit#gid=1667426450
-
+- The death of a prosecutor, 40,000 audio hearings, 2 years and a team. http://blogs.lanacion.com.ar/projects/data/the-death-of-a-prosecutor-40000-audio-hearings-2-years-and-a-team/
+- The Body Camera Database https://github.com/bodycams/bodycams.github.io/blob/master/README.md
 
 # Resources 
 
