@@ -30,6 +30,7 @@ Like the DJH, the *Collaborative Journalism Handbook* will be open-source and pu
 - Case studies
   - Election Land
   - Trump White House Records
+  - [Lost Mothers](https://www.propublica.org/article/lost-mothers-maternal-health-died-childbirth-pregnancy) 
   - Dollars for Docs
   - Fatal Encounters / Fatal Force
   - Homicide Watch
@@ -45,7 +46,7 @@ Like the DJH, the *Collaborative Journalism Handbook* will be open-source and pu
   
 ## Random examples
 
-
+- [The story of ProPublica’s maternal mortality series and its structured call-out to the crowd](http://www.storybench.org/story-propublicas-maternal-mortality-series-structured-call-crowd/)
 - [How We’re Learning To Do Journalism Differently in the Age of Trump](https://www.propublica.org/article/how-were-learning-to-do-journalism-differently-in-the-age-of-trump)
 - ["Competition Be Damned"](https://source.opennews.org/articles/news-nerds-against-pdfs/) How reporters at the Washington Post, New York Times, ProPublica, and more self-organized to free trapped FEC data)
 - [Using social media to spark enthusiasm among fans and crowdsource participants](https://twitter.com/ProPublica/status/859156075156836352)
