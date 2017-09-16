@@ -46,6 +46,8 @@ Like the DJH, the *Collaborative Journalism Handbook* will be open-source and pu
   
 ## Random examples
 
+- [http://www.pennlive.com/watchdog/2017/09/defying_the_odds_part_1.html](http://www.pennlive.com/watchdog/2017/09/defying_the_odds_part_1.html) - Newspapers nationwide, and Columbia's journalism program, replicate a 2014 Florida investigation into lottery winnings across all the other states.
+    - related: [A nationwide reporting adventure tracks improbably frequent lottery winners](https://www.cjr.org/watchdog/lottery-winners-foia-reporting.php)
 - [The story of ProPublica’s maternal mortality series and its structured call-out to the crowd](http://www.storybench.org/story-propublicas-maternal-mortality-series-structured-call-crowd/)
 - [How We’re Learning To Do Journalism Differently in the Age of Trump](https://www.propublica.org/article/how-were-learning-to-do-journalism-differently-in-the-age-of-trump)
 - ["Competition Be Damned"](https://source.opennews.org/articles/news-nerds-against-pdfs/) How reporters at the Washington Post, New York Times, ProPublica, and more self-organized to free trapped FEC data)
